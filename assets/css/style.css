@@ -5,6 +5,7 @@
 body {
     display: flex;
     font-family: "Protest Riot", sans-serif;
+    flex-direction: column;
 }
 
 /* Header Style*/
@@ -17,4 +18,17 @@ header {
     display:flex;
     justify-content: center;
     z-index: 20;
+}
+/*Main Content Area*/
+main {
+    display:flex;
+    margin-top:180px;
+  
+}
+
+/*Footer Area*/
+footer {
+    /*Pushes Footer to Bottom*/
+    position: absolute;
+    bottom: 0;
 }

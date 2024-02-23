@@ -12,4 +12,9 @@ header {
     align-content:center;
     border: 2px solid green;
     box-shadow:0 1px 1px darkgreen;
+    width: 100%;
+    position:fixed;
+    display:flex;
+    justify-content: center;
+    z-index: 20;
 }

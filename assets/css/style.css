@@ -1,3 +1,12 @@
+
+/*Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+/*Overall Style*/
+body {
+    display: flex;
+    font-family: "Protest Riot", sans-serif;
+}
+
 /* Header Style*/
 header {
     align-content:center;

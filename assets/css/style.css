@@ -88,6 +88,11 @@ img {
     box-sizing: border-box;
 }
 
+.descriptionimage {
+    display: flex;
+    flex-direction: row;
+}
+
 span {
     display: flex;
 

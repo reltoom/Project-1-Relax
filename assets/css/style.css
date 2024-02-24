@@ -106,17 +106,14 @@ span {
 
 /*Footer Area*/
 footer {
-    /*Pushes Footer to Bottom*/
-    position: absolute;
-    bottom: 0;
     width: 100%;
     /*created border to see area -- delete for final*/
     border: 2px solid blue;
+    
 }
 
 #social-media {
-  
-    list-style-type: none;
+    
     display: flex;
     flex-direction: row;
     justify-content: space-around;

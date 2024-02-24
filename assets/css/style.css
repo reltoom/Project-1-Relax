@@ -24,6 +24,7 @@ header {
 main {
     display:flex;
     margin-top:200px;
+    flex-grow: 1;
   
 }
 
@@ -32,4 +33,15 @@ footer {
     /*Pushes Footer to Bottom*/
     position: absolute;
     bottom: 0;
+    width: 100%;
 }
+
+#social-media {
+  
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 150%;
+}
+

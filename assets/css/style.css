@@ -61,12 +61,15 @@ h1 {
 
 /*Main Content Area*/
 main {
-    display:flex;
-    margin-top:200px;
+    display: flex;
+    margin-top: 200px;
     flex-direction: column;
     flex: 1 0 auto;
-    
-  }
+    align-self: center;
+    justify-content: space-around;
+    /*created border to see area--delete for final*/
+    border: 2px solid red;
+}
 
 /* Section-Yoga Positions */
 .yogapostions {
@@ -80,6 +83,8 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
+    /*created border to see area -- delete for final*/
+    border: 2px solid blue;
 }
 
 #social-media {

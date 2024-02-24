@@ -2,10 +2,18 @@
 /*Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
 /*Overall Style*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
     display: flex;
     font-family: "Protest Riot", sans-serif;
     flex-direction: column;
+    
 }
 
 a {
@@ -25,6 +33,7 @@ header {
     align-content: center;
     justify-content: center;
     flex-direction: column;
+    
 }
 
 h1 {

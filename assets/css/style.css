@@ -41,9 +41,6 @@ h1 {
     font-size: 360%;
  }
 
-h2 {
-    align-self: center;
-}
 
 #menu-bar {
     list-style-type: none;
@@ -66,8 +63,15 @@ h2 {
 main {
     display:flex;
     margin-top:200px;
-    flex-grow: 1;
-  
+    flex-direction: column;
+    flex: 1 0 auto;
+    
+  }
+
+/* Section-Yoga Positions */
+.yogapostions {
+    display:flex;
+    
 }
 
 /*Footer Area*/

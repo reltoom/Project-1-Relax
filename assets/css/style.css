@@ -31,7 +31,7 @@ header {
     z-index: 20;
     background-color: yellowgreen;
     align-content: center;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-direction: column;
     
 }
@@ -39,6 +39,7 @@ header {
 h1 {
     align-self: center;
     font-size: 360%;
+    
 }
 
 #menu-bar {
@@ -47,7 +48,7 @@ h1 {
     flex-direction: row;
     justify-content: space-around;
     font-size: 150%;
-    
+      
 }
 
 /*Shows Active Link Page*/

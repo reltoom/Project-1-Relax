@@ -20,6 +20,10 @@ a {
     text-decoration:none;
 }
 
+ul {
+    list-style-type: none;
+}
+
 /* Header Style*/
 header {
     align-content: center;

@@ -8,6 +8,10 @@ body {
     flex-direction: column;
 }
 
+a {
+    text-decoration:none;
+}
+
 /* Header Style*/
 header {
     align-content: center;
@@ -34,6 +38,15 @@ h1 {
     flex-direction: row;
     justify-content: space-around;
     font-size: 150%;
+    
+}
+
+/*Shows Active Link Page*/
+.currentpage {
+    background-color: darkgreen;
+    color:antiquewhite;
+    border-radius: 25% 10%;
+    padding: 5px;
 }
 
 /*Main Content Area*/

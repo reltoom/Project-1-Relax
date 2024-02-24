@@ -66,18 +66,24 @@ h1 {
 /*Main Content Area*/
 main {
     display: flex;
-    margin-top: 200px;
+    margin-top: 210px;
+    width: 100%;
     flex-direction: column;
     flex: 1 0 auto;
-    align-self: center;
     justify-content: space-around;
     /*created border to see area--delete for final*/
     border: 2px solid red;
 }
 
+h2, h3 {
+    display:flex;
+    justify-content:center;
+    
+}
 /* Section-Yoga Positions */
 .yogapostions {
     display:flex;
+   
     
 }
 

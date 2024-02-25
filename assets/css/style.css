@@ -78,6 +78,7 @@ main {
 h2, h3 {
     display:flex;
     justify-content:center;
+    font-size:200%;
     
 }
 /* Section-Yoga Positions */
@@ -91,8 +92,18 @@ img {
 .descriptionimage {
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
+
 }
 
+.description {
+    max-width: 40%;
+}
+
+.names {
+    font-size: 150%;
+    margin: 15px 0px 15px 70px;
+}
 
 
 /*Footer Area*/

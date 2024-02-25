@@ -90,8 +90,18 @@ h2, h3 {
     margin-right: auto;
     margin-top: 15px;
     margin-bottom: 15px;
-   
 }
+
+/* Types of ... layout*/
+.types {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 /* Section-Yoga Positions */
 

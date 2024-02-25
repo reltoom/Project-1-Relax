@@ -63,6 +63,14 @@ h1 {
     padding: 5px;
 }
 
+/*Home Page -- Main Relax Area*/
+#main-relax{
+    background-image: url("/assets/images/mainbackground.jpg");
+    background-repeat:no-repeat;
+    height: 1000px;
+    background-size: cover;
+}
+
 /*Main Content Area*/
 main {
     display: flex;

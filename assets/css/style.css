@@ -85,13 +85,12 @@ h2, h3 {
 /*Benefits of Yoga Styling*/
 .benefits-text {
     text-align: center;
-    max-width: 60%;
-    border: 5px solid green;
-       
-}
-p {
-    display:flex;
-    justify-content: center;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+   
 }
 
 /* Section-Yoga Positions */

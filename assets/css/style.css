@@ -67,14 +67,15 @@ h1 {
 #main-relax{
     background-image: url("/assets/images/mainbackground.jpg");
     background-repeat:no-repeat;
-    height: 1000px;
+    height: 100vh;
+    width: 100%;
     background-size: cover;
 }
 
 /*Main Content Area*/
 main {
     display: flex;
-    margin-top: 210px;
+    margin-top: 200px;
     width: 100%;
     flex-direction: column;
     flex: 1 0 auto;

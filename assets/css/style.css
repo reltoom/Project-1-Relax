@@ -273,14 +273,16 @@ footer {
     }
 
     /*  Main Content Area */
-    
+
     .benefits-home {
         text-align: center;
         color: darkgreen;
         background-color: antiquewhite;
         opacity: 0.8;
-        border-radius: 40%;
-        
+        border-radius: 25% 10%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 10px;
     }
 
     /*Newsletter Sign Up Formatting*/

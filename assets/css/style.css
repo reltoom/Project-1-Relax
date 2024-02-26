@@ -184,6 +184,16 @@ textarea {
     margin-bottom: 10px;
 }
 
+button {
+    font-weight: bold;
+    padding: 5px;
+    background-color: darkgreen;
+    color: antiquewhite;
+    border-radius: 25% 10%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
 /*Footer Area*/
 
 footer {

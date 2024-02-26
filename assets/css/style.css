@@ -289,14 +289,18 @@ footer {
     }
 
     #signup-img {
-        background-image: url("/assets/images/signupform.jpg");
-        background-repeat:no-repeat;
-        background-size: contain;
-        height:fit-content;
+        background-image: url("/assets/images/signupsmall.png");
+        background-repeat: no-repeat;
+        height: 100vh;
+        width: 100%;
+        background-size: cover;
         background-position: center center;
-       
     }
 
+    #newsletter-heading {
+        font-size: 170%;
+        width:70%;
+    }
 }
 
 

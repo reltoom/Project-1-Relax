@@ -224,3 +224,11 @@ footer {
     font-size: 150%;
 }
 
+/* Media Queries for phones up to 600px*/
+
+@media screen and (max-width: 600px) {
+  /*  Header Area*/
+    h1 {
+        font-size: 100%;
+    }
+}

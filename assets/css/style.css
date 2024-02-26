@@ -229,6 +229,34 @@ footer {
 @media screen and (max-width: 600px) {
   /*  Header Area*/
     h1 {
-        font-size: 100%;
+        font-size: 150%;
+        width:75%;
+        text-align: center;
+    }
+
+    /*  Menu-bar Toggle*/
+
+    nav {
+        position: absolute;
+        background-color: #ffffff;
+        width: 100%;
+        left: 0;
+        padding: 0 1rem;
+        box-shadow: 0 2px 2px #3a3a3a;
+        display: none;
+        top: 100%;
+    }
+
+    /* Nav toggle */
+    #dropdown-menu:checked ~ nav {
+        display: block;
+    }
+
+    #dropdown-menu {
+        display: none;
+    }
+
+    .menu-label {
+        font-size: 2rem;
     }
 }

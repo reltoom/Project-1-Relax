@@ -282,7 +282,23 @@ footer {
         border-radius: 40%;
         
     }
+
+    /*Newsletter Sign Up Formatting*/
+    #signup-form {
+        font-size: 60%;
+    }
+
+    #signup-img {
+        background-image: url("/assets/images/signupform.jpg");
+        background-repeat:no-repeat;
+        background-size: contain;
+        height:fit-content;
+        background-position: center center;
+       
+    }
+
 }
+
 
 @media screen and (min-width: 768px) {
 

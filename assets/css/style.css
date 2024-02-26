@@ -44,6 +44,7 @@ header {
 h1 {
     align-self: center;
     font-size: 360%;
+    
  }
 
 
@@ -53,6 +54,7 @@ h1 {
     flex-direction: row;
     justify-content: space-around;
     font-size: 150%;
+    padding-bottom: 20px;
       
 }
 

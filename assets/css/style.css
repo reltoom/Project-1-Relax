@@ -309,7 +309,23 @@ footer {
     #dropdown-menu {
         visibility: hidden;
     }
+    
     .menu-label {
         visibility: hidden;
+    }
+
+    #main-relax {
+        font-size: 220%;
+    }
+
+    .benefits-home {
+        text-align: center;
+        color: darkgreen;
+        background-color: antiquewhite;
+        opacity: 0.8;
+        border-radius: 25% 10%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
     }
 }

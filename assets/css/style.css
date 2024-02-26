@@ -228,10 +228,20 @@ footer {
 
 @media screen and (max-width: 600px) {
   /*  Header Area*/
+
+    header {
+       flex-direction: row-reverse; 
+       
+        
+
+    }
+
+
     h1 {
         font-size: 150%;
-        width:75%;
+        width: 75%;
         text-align: center;
+        align-self:baseline;
     }
 
     /*  Menu-bar Toggle*/
@@ -240,11 +250,11 @@ footer {
         background-color: antiquewhite;
         width: 100%;
         display: none;
-        font-size:50%;
+        font-size: 50%;
         padding: 2px;
+        
     }
 
-    /* Nav toggle */
     #dropdown-menu:checked ~ nav {
         display: block;
     }
@@ -254,6 +264,17 @@ footer {
     }
 
     .menu-label {
-        font-size: 2rem;
+        font-size: 3rem;
+        
+      
     }
+
+    #menu-bar {
+        flex-direction: column; 
+        height: 150px;
+        justify-content: stretch;
+        justify-content: space-evenly;
+   
+    }
+
 }

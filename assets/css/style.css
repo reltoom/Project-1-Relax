@@ -172,9 +172,18 @@ img {
     height: 100vh;
     width: 100%;
     align-items: center;
-} 
+}
 
+label {
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+textarea {
+    text-align: center;
+}
 /*Footer Area*/
+
 footer {
     width: 100%;
     /*created border to see area -- delete for final*/

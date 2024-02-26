@@ -13,11 +13,12 @@ body {
     display: flex;
     font-family: "Protest Riot", sans-serif;
     flex-direction: column;
-    
+    color: darkgreen;
 }
 
 a {
-    text-decoration:none;
+    text-decoration: none;
+    color: darkgreen;
 }
 
 ul {
@@ -33,7 +34,7 @@ header {
     position: fixed;
     display: flex;
     z-index: 20;
-    background-color: yellowgreen;
+    background-color: antiquewhite;
     align-content: center;
     justify-content: space-evenly;
     flex-direction: column;

@@ -67,9 +67,9 @@ h1 {
 }
 
 /*Home Page -- Main Relax Area*/
-#main-relax{
-    background-image: url("../images/mainbackground.jpg");
-    background-repeat:no-repeat;
+#main-relax {
+    background-image: url("https://reltoom.github.io/Project-1-Relax/assets/images/mainbackground.jpg");
+    background-repeat: no-repeat;
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -158,7 +158,7 @@ img {
 
 /*Newsletter Signup Form*/
 #signup-img {
-    background-image: url("../images/signupform.jpg");
+    background-image: url("https://reltoom.github.io/Project-1-Relax/assets/images/signupform.jpg");
     background-repeat: no-repeat;
     height: 100vh;
     width: 100%;
@@ -166,8 +166,6 @@ img {
     background-position: center center;
     margin-left: auto;
     margin-right: auto;
-    
-    
 }
 
 #signup-form {

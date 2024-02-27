@@ -309,7 +309,7 @@ footer {
     }
 
     #signup-img {
-        background-image: url("/assets/images/signupsmall.png");
+        background-image: url("https://reltoom.github.io/Project-1-Relax/assets/images/signupsmall.png");
         background-repeat: no-repeat;
         height: 100vh;
         width: 100%;

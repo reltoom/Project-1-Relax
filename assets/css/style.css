@@ -93,6 +93,7 @@ h2, h3 {
     font-size: 200%;
     margin-top: 15px;
     margin-bottom: 15px;
+    
 }
 
 /*Benefits of Yoga Styling*/
@@ -152,14 +153,15 @@ img {
 
 .description {
     max-width: 100%;
-    background-color: antiquewhite;
-    border-radius: 10% 25%;
-    padding: 10px;
+    
 }
 
 .names {
     font-size: 150%;
     margin: 20px 70px;
+    background-color: antiquewhite;
+    border-radius: 10% 25%;
+    padding: 10px;
 }
 
 

@@ -89,7 +89,7 @@ main {
     flex-direction: column;
     flex: 1 0 auto;
     justify-content: space-around;
-    
+    background-color: tan;
 }
 
 h2, h3 {
@@ -99,7 +99,7 @@ h2, h3 {
     margin-top: 15px;
     margin-bottom: 15px;
    
-    
+   
 }
 
 /*Benefits of Yoga Styling*/

@@ -1,8 +1,7 @@
 
 /*Google Fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&family=Protest+Strike&display=swap');
 /*Overall Style*/
-
 * {
     padding: 0;
     margin: 0;
@@ -11,7 +10,7 @@
 
 body {
     display: flex;
-    font-family: "Protest Riot", sans-serif;
+    font-family: "Protest Strike", sans-serif;
     flex-direction: column;
     color: darkgreen;
 }
@@ -99,7 +98,7 @@ h2, h3 {
 /*Benefits of Yoga Styling*/
 .benefits-text {
     text-align: center;
-    max-width: 70%;
+    max-width: 95%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 15px;
@@ -153,6 +152,7 @@ img {
 
 .description {
     max-width: 100%;
+    font-family: "Protest Riot", sans-serif;
     
 }
 
@@ -299,6 +299,10 @@ footer {
         margin-right: auto;
         padding: 10px;
     }
+    .benefits-text {
+
+
+    }
     /* Yoga Positions Area*/
     .names {
         margin-left: 0;
@@ -312,6 +316,9 @@ footer {
         font-size: 80%;
         padding: 0px;
         margin: 0px;
+    }
+    .description {
+        width: 95%;
     }
 
     img {

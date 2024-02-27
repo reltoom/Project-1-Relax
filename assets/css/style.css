@@ -27,7 +27,6 @@ ul {
 /* Header Style*/
 header {
     align-content: center;
-    border: 2px solid darkgreen;
     width: 100%;
     height: 150px;
     position: fixed;

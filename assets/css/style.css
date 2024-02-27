@@ -285,6 +285,31 @@ footer {
         margin-right: auto;
         padding: 10px;
     }
+    /* Yoga Positions Area*/
+    .descriptionimage {
+        flex-direction: column;
+        font-size: 80%;
+        border: 2px solid darkgreen;
+        padding: 1px;
+        margin: 1px;
+    }
+    .description {
+        border: 2px solid darkgreen;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+
+        
+       
+
+    }
+
+    .names {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
 
     /*Newsletter Sign Up Formatting*/
     #signup-form {

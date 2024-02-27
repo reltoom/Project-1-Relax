@@ -84,6 +84,7 @@ main {
     flex-direction: column;
     flex: 1 0 auto;
     justify-content: space-around;
+    
 }
 
 h2, h3 {
@@ -238,6 +239,9 @@ footer {
        flex-direction: row-reverse; 
     }
 
+    main {
+        text-align: center;
+    }
     h1 {
         font-size: 150%;
         width: 75%;

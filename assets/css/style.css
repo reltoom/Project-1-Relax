@@ -362,4 +362,7 @@ footer {
     .names {
         padding: 20px;
     }
+    .description {
+        padding: 10px;
+    }
 }

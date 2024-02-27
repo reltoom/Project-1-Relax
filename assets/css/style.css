@@ -138,9 +138,9 @@ h2, h3 {
 /* Section-Yoga Positions */
 
 img {
-    max-width: 300px;
-    height: auto;
-    box-sizing: border-box;
+    max-width: auto;
+    height: 300px;
+    
 }
 
 .descriptionimage {
@@ -357,6 +357,9 @@ footer {
         border-radius: 25% 10%;
         margin-left: auto;
         margin-right: auto;
+        padding: 20px;
+    }
+    .names {
         padding: 20px;
     }
 }

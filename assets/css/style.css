@@ -12,7 +12,7 @@ body {
     display: flex;
     font-family: "Protest Strike", sans-serif;
     flex-direction: column;
-    color: darkgreen;
+    color: black;
 }
 
 a {
@@ -43,6 +43,7 @@ header {
 h1 {
     align-self: center;
     font-size: 360%;
+   
     
  }
 
@@ -73,7 +74,12 @@ h1 {
     width: 100%;
     background-size: cover;
     background-position: center center;
+    color: darkgreen;
 }
+
+    #main-relax h2 {
+        color: black;
+    }
 
 /*Main Content Area*/
 main {
@@ -92,6 +98,7 @@ h2, h3 {
     font-size: 200%;
     margin-top: 15px;
     margin-bottom: 15px;
+   
     
 }
 
@@ -107,6 +114,7 @@ h2, h3 {
     background-color:antiquewhite;
     border-radius: 10% 25%;
     padding: 10px;
+    color: darkgreen;
 }
 
 /* Types of ... layout*/
@@ -129,6 +137,7 @@ h2, h3 {
     background-color: antiquewhite;
     border-radius: 10% 25%;
     padding: 10px;
+    color: darkgreen;
 }
 
 
@@ -151,6 +160,7 @@ img {
 .description {
     max-width: 100%;
     font-family: "Protest Riot", sans-serif;
+    color: darkgreen;
     
 }
 
@@ -197,6 +207,7 @@ img {
     color: darkgreen;
     border-radius: 10% 25%;
     padding: 10px;
+    color:black;
 }
 
 label {
@@ -257,6 +268,7 @@ footer {
         width: 75%;
         text-align: center;
         align-self:baseline;
+
     }
 
     /*  Menu-bar Toggle*/

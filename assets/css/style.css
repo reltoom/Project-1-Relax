@@ -224,6 +224,16 @@ button {
     text-transform: uppercase;
 }
 
+/*Thank You Page*/
+#thankyou {
+    background-color: antiquewhite;
+    font-size: 150%;
+    opacity: .8;
+    width: 70%;
+    align-self: center;
+   
+}
+
 /*Footer Area*/
 footer {
     width: 100%;

@@ -38,16 +38,12 @@ header {
     justify-content: space-evenly;
     flex-direction: column;
     padding-bottom: 12px;
-    
 }
 
 h1 {
     align-self: center;
     font-size: 360%;
-   
-    
  }
-
 
 #menu-bar {
     list-style-type: none;
@@ -56,7 +52,6 @@ h1 {
     justify-content: space-around;
     font-size: 150%;
     padding-bottom: 20px;
-      
 }
 
 /*Shows Active Link Page*/
@@ -78,7 +73,7 @@ h1 {
     color: darkgreen;
 }
 
-    #main-relax h2 {
+ #main-relax h2 {
         color: black;
     }
 
@@ -99,8 +94,6 @@ h2, h3 {
     font-size: 200%;
     margin-top: 15px;
     margin-bottom: 15px;
-   
-   
 }
 
 /*Benefits of Yoga Styling*/
@@ -143,11 +136,9 @@ h2, h3 {
 
 
 /* Section-Yoga Positions */
-
 img {
     width: auto;
     height: 300px;
-    
 }
 
 .descriptionimage {
@@ -155,14 +146,12 @@ img {
     flex-direction: row;
     justify-content: space-evenly;
     padding: 30px;
-
 }
 
 .description {
     max-width: 100%;
     font-family: "Protest Riot", sans-serif;
     color: darkgreen;
-    
 }
 
 .names {
@@ -175,9 +164,6 @@ img {
     margin-right: auto;
     max-width: 95%;
 }
-
-
-
 
 /*Newsletter Signup Form*/
 #signup-img {
@@ -198,7 +184,6 @@ img {
     height: 100vh;
     width: 100%;
     align-items: center;
-
 }
 
 #newsletter-heading {
@@ -240,14 +225,12 @@ button {
 }
 
 /*Footer Area*/
-
 footer {
     width: 100%;
     background-color: antiquewhite;
 }
 
-#social-media {
-    
+#social-media { 
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -257,13 +240,11 @@ footer {
 #copyright {
     text-align: right;
     font-size:70%;
-
 }
-/* Media Queries for phones up to 600px*/
 
+/* Media Queries for phones up to 840px*/
 @media screen and (max-width: 840px) {
   /*  Header Area*/
-
     header {
        flex-direction: row-reverse; 
     }
@@ -271,16 +252,15 @@ footer {
     main {
         text-align: center;
     }
+
     h1 {
         font-size: 150%;
         width: 75%;
         text-align: center;
         align-self:baseline;
-
     }
 
     /*  Menu-bar Toggle*/
-
     nav {
         background-color: antiquewhite;
         width: 100%;
@@ -309,7 +289,6 @@ footer {
     }
 
     /*  Main Content Area */
-
     .benefits-home {
         text-align: center;
         color: darkgreen;
@@ -320,6 +299,7 @@ footer {
         margin-right: auto;
         padding: 10px;
     }
+
     /* Yoga Positions Area*/
     .names {
         margin-left: auto;
@@ -334,6 +314,7 @@ footer {
         padding: 0px;
         margin: 0px;
     }
+
     .description {
         width: 95%;
     }
@@ -369,10 +350,8 @@ footer {
         font-size:200%;
     }
 }
-
-
+/* Media Query for screen sizes min. 841*/
 @media screen and (min-width: 841px) {
-
     #dropdown-menu {
         visibility: hidden;
     }
@@ -395,14 +374,12 @@ footer {
         margin-right: auto;
         padding: 20px;
     }
+
     .names {
         padding: 20px;
     }
+
     .description {
         padding: 10px;
-    }
-
-    .yoga-positions {
-       
     }
 }

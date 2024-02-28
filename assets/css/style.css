@@ -13,6 +13,7 @@ body {
     font-family: "Protest Strike", sans-serif;
     flex-direction: column;
     color: black;
+    min-height: 100vh;
 }
 
 a {
@@ -70,7 +71,7 @@ h1 {
 #main-relax {
     background-image: url("https://reltoom.github.io/Project-1-Relax/assets/images/mainbackground.jpg");
     background-repeat: no-repeat;
-    height: 100vh;
+    max-height: 100vh;
     width: 100%;
     background-size: cover;
     background-position: center center;
@@ -260,7 +261,7 @@ footer {
 }
 /* Media Queries for phones up to 600px*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 840px) {
   /*  Header Area*/
 
     header {
@@ -370,7 +371,7 @@ footer {
 }
 
 
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 841px) {
 
     #dropdown-menu {
         visibility: hidden;

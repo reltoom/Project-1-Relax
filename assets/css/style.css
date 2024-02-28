@@ -260,7 +260,7 @@ footer {
 }
 /* Media Queries for phones up to 600px*/
 
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 600px) {
   /*  Header Area*/
 
     header {
@@ -370,7 +370,7 @@ footer {
 }
 
 
-@media screen and (min-width: 841px) {
+@media screen and (min-width: 601px) {
 
     #dropdown-menu {
         visibility: hidden;

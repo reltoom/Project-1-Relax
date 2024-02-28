@@ -36,6 +36,7 @@ header {
     align-content: center;
     justify-content: space-evenly;
     flex-direction: column;
+    padding-bottom: 12px;
     
 }
 

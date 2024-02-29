@@ -164,7 +164,7 @@ HTML & CSS were used in the making of Ways to Relax.
 * [Google Developer Tools](https://developer.chrome.com/docs/devtools) - For viewing in different screen resolution and finding errors.
 * [TinyPNG](https://tinypng.com/) Compressed background images.
 * [Favicon.io](https://favicon.io/) Created the 'R' favicon for webbrowser.
-* [
+* [W3 School](https://www.w3schools.com/) Read and understand code.
 * [Font Awesome](https://fontawesome.com/start) Footer icons for social media and the 3 bars icon for dropdown menu.
 - - -
 
@@ -196,26 +196,57 @@ Links in the main menu take the user where expected. Links in the footer take yo
 
 The newsletter-sign up form requires a name and email address and when submitted, correctly takes the user to the 'Thank You' page.
 
+## Validator Test
+
+* HTML
+    * Using the [W3C Validator](https://validator.w3.org/#validate_by_input), code was checked for each webpage to see if there were any errors.
+    ![W3C HTML Test](readmeimages/noerrorshtml.png)
+* CSS
+    * Using the [W3C Validator] (https://jigsaw.w3.org/css-validator/) the code for CSS was checked for errors.
+    ![W3C CSS Test](readmeimages/validatorcss.png)
+* Accessibility 
+    * Using the Lighthouse dev tool from Chrome; accessibitly, performace, best practices and SEO were tested.
+
+![Validator Test](readmeimages/lighthouse.png)
 
 ### Solved Bugs
+Here are some of the bugs that came up during development. 
 
 | Bug | Fix |
 | :--- | :--- |
-|dsaf|asdf |
+| Background images not showing when deployed. | Changed relative pathing to URL pathing ( "https://reltoom.github.io/Project-1-Relax/assets/images/mainbackground.jpg"))  |
+| Text overflowing from background after border radius was entered. | Added padding of 10px or 15px where necessary to text container. |
+| Submit from the newsletter form did not send user to the 'Thank You' page, gave error. | In the 'form' tag changed 'method' from 'post' to 'get'.
+| Footer was moving up or down depending on content. | Used flex to add footer into correct space and then made the 'body' have a min-height of 100vh.|
 
+Whenever I discovered a bug, I would go back to the course material and re-read the section to better understand. If that did not help me, I used Google to search for more info on the topic or possible solutions. If efter this I still was not able to solve an issue, I asked my brother form help ( he works as a programmer). He would point out what was causing the issues and from there I was able to figure out a solution.
+
+There are no unsolved bugs.
 - - -
 
 ## Credits
 
 ### Code Used
+Most of the code I wrote myself with a lot of trial and error, saving and viewing on web browser. 
 
+For the dropdown menu I used code from [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/5.3-meetup-times) project to get main outline of it and then I adjusted the CSS for it for my own needs. Ideas for the Favicon and Social Media Icons are taken from [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/5.3-meetup-times) as well.
 
 ### Content
+Information about Yoga was taken from [Ekhartyoga](https://www.ekhartyoga.com/).
 
+Information for Watsu was taken from a combination of [Healthline](https://www.healthline.com/health/watsu) and [Margoa Aquatic Bodywork](https://www.margoalv.com/).
 
 ### Media
+Background images for the main page and the newsletter page are taken from [Pexels](https://www.pexels.com/).
 
+Images for the Yoga page are self taken with my wife as the model.
+
+Images for the Watsu page are with permission from  [Margoa Aquatic Bodywork](https://www.margoalv.com/).
 
 
 ### Acknowledgments
 
+Thank you to my wife for modelling for yoga pictures and helping me format benefits of each different pose.
+Thank you to my brother, Erik, for helping me find solutions to bugs or issues I was having with code.
+Thank you to Margoa Aquatic Bodywork for giving me permission to use their pictures.
+Thank you to my mentor from CI, Precious, for giving me advice and guidelines on the project.

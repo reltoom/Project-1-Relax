@@ -247,6 +247,9 @@ Images for the Watsu page are with permission from  [Margoa Aquatic Bodywork](ht
 ### Acknowledgments
 
 Thank you to my wife for modelling for yoga pictures and helping me format benefits of each different pose.
+
 Thank you to my brother, Erik, for helping me find solutions to bugs or issues I was having with code.
+
 Thank you to Margoa Aquatic Bodywork for giving me permission to use their pictures.
+
 Thank you to my mentor from CI, Precious, for giving me advice and guidelines on the project.

@@ -77,6 +77,10 @@ h1 {
         color: black;
     }
 
+.benefits-home {
+    font-family: "Protest Riot", sans-serif;
+}
+
 /*Main Content Area*/
 main {
     display: flex;
@@ -105,10 +109,11 @@ h2, h3 {
     margin-top: 15px;
     margin-bottom: 15px;
     font-size: 160%;
-    background-color:antiquewhite;
+    background-color: antiquewhite;
     border-radius: 10% 25%;
     padding: 10px;
     color: darkgreen;
+    font-family: "Protest Riot", sans-serif;
 }
 
 /* Types of ... layout*/
@@ -132,6 +137,7 @@ h2, h3 {
     border-radius: 10% 25%;
     padding: 10px;
     color: darkgreen;
+    font-family: "Protest Riot", sans-serif;
 }
 
 

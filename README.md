@@ -231,6 +231,7 @@ Most of the code I wrote myself with a lot of trial and error, saving and viewin
 
 For the dropdown menu I used code from [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/5.3-meetup-times) project to get main outline of it and then I adjusted the CSS for it for my own needs. Ideas for the Favicon and Social Media Icons are taken from [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/5.3-meetup-times) as well.
 
+Structure for the README file is from [The Quiz Arms](https://github.com/kera-cudmore/TheQuizArms/blob/main/assets/images/the-quiz-arms.png) adjusted to fit my project.
 ### Content
 Information about Yoga was taken from [Ekhartyoga](https://www.ekhartyoga.com/).
 

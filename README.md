@@ -102,7 +102,7 @@ The first section on this page describes what Watsu is and what are the benefits
 
 ![What is Watsu and some Benefits](readmeimages/whatiswatsu.png)
 
-Next, 3 different Watsu excersises are displayed. A short description the excersise and some of the benefits followed by a picture of it in practice.
+Next, three different Watsu excersises are displayed. A short description of the excersise and some of the benefits followed by a picture of it in practice.
 
 ![Watsu Excersise - Pressure Point Massage](readmeimages/watsumassage.png)
 

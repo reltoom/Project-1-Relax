@@ -20,16 +20,16 @@ Watsu is relatively new form of relaxation/physical rehab that is done with anot
     * [The Watsu Page](#the-watsu-page)
     * [The Newsletter-Sign Up Page](#the-newsletter-sign-up-page)
     * [The Thank You Page](#the-thank-you-page)
+    * [Colour Scheme](#colour-scheme)
+    * [Typography](#typography)
     * [Future Implementations](#future-implementations)
-  * [Colour Scheme](#colour-scheme)
-  * [Typography](#typography)
 * [Technologies](#technologies)
   * [Languages](#languages)
   * [Websites & Programs](#websites-programs)
-* [Testing](#testing)
-  * [Solved Bugs](#solved-bugs)
-  * [Known Bugs](#known-bugs)
 * [Deployment](#deployment)
+* [Testing](#testing)
+   * [Validator Test](#validator-test)
+   * [Bugs](#bugs)
 * [Credits](#credits)
   * [Code Used](#code-used)
   * [Content](#content)
@@ -141,7 +141,7 @@ Two differenet fonts from Google Fonts were used for this site.
 
 * All text areas (darkgreen text - exception is links and labels) have [Protest Riot](https://fonts.google.com/specimen/Protest+Riot?query=protest+riot). This is a smooth quill like style which reminded me of calligraphy.
 
-#### Future Implementations
+### Future Implementations
 
 1. Add descriptions of how to do each pose in the Yoga page.
 2. Create a new page for Mindfulness with similar layout that the user is used to.
@@ -209,7 +209,7 @@ The newsletter-sign up form requires a name and email address and when submitted
 
 ![Validator Test](readmeimages/lighthouse.png)
 
-### Solved Bugs
+### Bugs
 Here are some of the bugs that came up during development. 
 
 | Bug | Fix |

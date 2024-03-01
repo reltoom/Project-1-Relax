@@ -161,11 +161,12 @@ HTML & CSS were used in the making of Ways to Relax.
 * [Github](https://github.com/) - Created repository and stored files here after commits.
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com/) - Wrote code and did commits to Github from here.
 * [Google Fonts](https://fonts.google.com/) - Imports fonts for website.
-* [Google Developer Tools](https://developer.chrome.com/docs/devtools) - For viewing in different screen resolution and finding errors.
+* [Google Developer Tools](https://developer.chrome.com/docs/devtools) - For viewing in different screen resolutions and finding errors.
 * [TinyPNG](https://tinypng.com/) Compressed background images.
 * [Favicon.io](https://favicon.io/) Created the 'R' favicon for webbrowser.
 * [W3 School](https://www.w3schools.com/) Read and understand code.
 * [Font Awesome](https://fontawesome.com/start) Footer icons for social media and the 3 bars icon for dropdown menu.
+* [UI.dev Am I Responsive](https://ui.dev/amiresponsive) Used to get image on all different devices.
 - - -
 
 ## Deployment 

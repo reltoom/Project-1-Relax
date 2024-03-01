@@ -321,13 +321,13 @@ footer {
         margin-left: auto;
         margin-right: auto;
         text-align: center;
+        
     }
 
     .descriptionimage {
         display: flex;
         flex-flow: row wrap;
         font-size: 80%;
-        padding: 0px;
         margin: 0px;
     }
 

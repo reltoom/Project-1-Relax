@@ -182,6 +182,24 @@ To Deploy the site from GitHub Pages:
 
 ![Deployment Steps](readmeimages/deploy.png)
 
+#### How to Fork
+
+If you want to fork this repository:
+
+1. Go to the repository for this project, [Ways to Relax - Mind, Body & Soul](https://github.com/reltoom/Project-1-Relax).
+2. In the upper right hand area of the screen, click the 'Fork' button.
+3. Then when the menu drops down, click 'Create New Fork'. (If you are the owner of a repository, you cannot fork.) 
+
+#### How to Clone
+
+If you want to clone this repository:
+
+1. Go to the repository for this project [Ways to Relax - Mind, Body & Soul](https://github.com/reltoom/Project-1-Relax).
+3. Click on the green 'Code' button and then select how you would like to clone: HTTPS, SSH or GitHub CLI (under the 'local' tab). 
+4. Either copy the desired code or click to open with another program from the list below the code.
+4. Open your code editor and go to 'Clone Repository' usually under 'File'.
+5. Paste if your code and then 'Clone'.
+
 - - -
 
 ## Testing

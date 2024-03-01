@@ -13,16 +13,16 @@ Watsu is relatively new form of relaxation/physical rehab that is done with anot
 
 * [User Experience](#user-experience-ux)
   * [User Stories](#user-stories)
-* [Design](#design)
-  * [Features](#features)
+  * [Design](#design)
+    * [Colour Scheme](#colour-scheme)
+    * [Typography](#typography)
+    * [Future Implementations](#future-implementations)
+* [Features](#features)
     * [The Home Page](#the-home-page)
     * [The Yoga Page](#the-yoga-page)
     * [The Watsu Page](#the-watsu-page)
     * [The Newsletter-Sign Up Page](#the-newsletter-sign-up-page)
     * [The Thank You Page](#the-thank-you-page)
-    * [Colour Scheme](#colour-scheme)
-    * [Typography](#typography)
-    * [Future Implementations](#future-implementations)
 * [Technologies](#technologies)
   * [Languages](#languages)
   * [Websites & Programs](#websites-programs)
@@ -53,11 +53,36 @@ Watsu is relatively new form of relaxation/physical rehab that is done with anot
 * Layout is the same as before.
 * Information is updated or expanded to provide new forms of relaxing or new techniques.
 
-- - -
-
 ## Design
 
-### Features
+### Colour Scheme
+
+I wanted the color scheme to reflect natural colors and such that are related to relaxation. Calm and soothing tons reflecting sand or ground with green for plants and black for hightlights.
+
+* `Antiquewhite` is used as the primary background color for the header section and text areas.
+* `Darkgreen` is used for text areas, links in the header & footer and labels for the signup form.
+* `Tan` is used for the general background color of the whole page.
+* `Black` is used for the title and other headings.
+
+  ![Ways to Relax Color Choice](readmeimages/colors.png)
+
+### Typography
+
+Two differenet fonts from Google Fonts were used for this site.
+
+* For all titles or headings (black text) [Protest Strike](https://fonts.google.com/specimen/Protest+Strike?query=protest+strike) was used. This is a bolder style with smooth curves and easy readablilty. 
+
+* All text areas (darkgreen text - exception is links and labels) have [Protest Riot](https://fonts.google.com/specimen/Protest+Riot?query=protest+riot). This is a smooth quill like style which reminded me of calligraphy.
+
+### Future Implementations
+
+1. Add descriptions of how to do each pose in the Yoga page.
+2. Create a new page for Mindfulness with similar layout that the user is used to.
+3. Add a 'Nearby You' section where you can locate Yoga or other forms of relaxation via Googlemaps.
+
+- - -
+
+## Features
 
 Ways to Relax consists of a home page, a 'Yoga' page, a 'Watsu' page, a 'Sign up for our Newsletter' page & a 'Thank you' for subscribing page.
 
@@ -121,31 +146,6 @@ On this page the user can sign up for a weekly newsletter from Ways to Relax. In
 After subscribing to the 'Ways to Relax' newsletter, the user is taken to a page showing 'Thank you for subscribing to our newsletter!'. From here, the user can click any of the links in the header to return to the site.
 
 ![Thank You Page](readmeimages/thankyou.png)
-
-### Colour Scheme
-
-I wanted the color scheme to reflect natural colors and such that are related to relaxation. Calm and soothing tons reflecting sand or ground with green for plants and black for hightlights.
-
-* `Antiquewhite` is used as the primary background color for the header section and text areas.
-* `Darkgreen` is used for text areas, links in the header & footer and labels for the signup form.
-* `Tan` is used for the general background color of the whole page.
-* `Black` is used for the title and other headings.
-
-  ![Ways to Relax Color Choice](readmeimages/colors.png)
-
-### Typography
-
-Two differenet fonts from Google Fonts were used for this site.
-
-* For all titles or headings (black text) [Protest Strike](https://fonts.google.com/specimen/Protest+Strike?query=protest+strike) was used. This is a bolder style with smooth curves and easy readablilty. 
-
-* All text areas (darkgreen text - exception is links and labels) have [Protest Riot](https://fonts.google.com/specimen/Protest+Riot?query=protest+riot). This is a smooth quill like style which reminded me of calligraphy.
-
-### Future Implementations
-
-1. Add descriptions of how to do each pose in the Yoga page.
-2. Create a new page for Mindfulness with similar layout that the user is used to.
-3. Add a 'Nearby You' section where you can locate Yoga or other forms of relaxation via Googlemaps.
 
 - - -
 
